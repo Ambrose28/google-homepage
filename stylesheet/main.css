@@ -1,0 +1,19 @@
+body{
+    margin-top: 1rem;
+    text-align: center;
+}
+
+.image{
+    position:top;
+    margin-top: 2rem;
+    TOP:150px;
+    LEFT:575px;
+}
+
+.form{
+    padding: 2em;
+}
+.text{
+    width: 5rem;
+}
+input []
